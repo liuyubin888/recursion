@@ -1,5 +1,5 @@
 <?php 
-calss recursion{
+class recursion{
 
   public function getfeaturetest(){
           $FeatureConfigObj = loadModel('FeatureConfig', true);
