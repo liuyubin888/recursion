@@ -26,7 +26,7 @@ class recursion{
           return $tree;
       }
 
-      private function procHtml($tree)  a
+      private function procHtml($tree)
       {
           $html = '';
           foreach($tree as $t){
