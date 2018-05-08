@@ -28,7 +28,7 @@ class recursion{
 
       private function procHtml($tree)  
       {
-          $a='';
+          
           $html = '';
           foreach($tree as $t){
               if($t['parent_id'] == ''){
